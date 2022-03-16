@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thereexist
 - 👀 I’m interested in science.
 - 🌱 I’m currently learning MD simulation data analysis by Julia lang.
+- 🍭 I’m currently learning reversible reaction process by theory and double check this result based on the stochastic simulation by c lang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
