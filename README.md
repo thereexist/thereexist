@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thereexist
 - 👀 I’m interested in science.
-- 🌱 I’m currently learning MD simulation data analysis by Julia lang. Also, I'm doing MD simulation by AMBER and CHARMM-GUI.
+- 🌱 I’m currently learning MD simulation data analysis by Julia lang. Also, I'm doing MD simulation by AMBER and CHARMM-GUI. (
 - 🍭 I’m currently learning reversible reaction process by theory and double check this result based on the stochastic simulation by c lang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 I'm Ph.D student in [**CDLC**](http://cdlc.cau.ac.kr/). 
