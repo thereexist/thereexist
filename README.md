@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @thereexist
 - 👀 I’m interested in science.
-- 🌱 I analyzed MD simulation data by [Julia lang](https://julialang.org/). Currently, this result is published in JPCL [link](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00323). 
+- 🌱 I analyzed MD simulation data by [Julia lang](https://julialang.org/). Currently, this result is published in [JPCL](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00323). 
 - 🎃 Recently, I'm trying to learn [DFT-CES](https://www.m-design-lab.net/dft-ces). 
 - 🍭 I’m currently learning reversible reaction process by theory and double check this result based on the stochastic simulation by c lang.
 - 🎇 I like bike riding, bodyweight workouts (pull-up, push up), and reading books. 
