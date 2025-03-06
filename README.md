@@ -6,7 +6,7 @@
 - 🍭 I’m currently learning reversible reaction process by theory and double check this result based on the stochastic simulation by c lang.
 - 🎇 I like bike riding, bodyweight workouts (pull-up, push up), and reading books. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 I'm Ph.D student in [**CDLC**](http://cdlc.cau.ac.kr/). 
+- 📫 I'm Ph.D student in [**CDLC**](http://cdlc.cau.ac.kr/) and [**GCSC**](https://www.gcsc.cau.ac.kr/home). 
 - 📕 I'm a member of the [**Kwanjeong Book Club (Sogul)**](https://sites.google.com/view/sogul/home).
 - 🦉 If you want to contact with me, please send e-mail. My e-mail address is minho.cdlc@gmail.com
 
