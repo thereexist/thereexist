@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @thereexist
 - 👀 I’m interested in science.
-- 🌱 I analyzed MD simulation data by [Julia language](https://julialang.org/). This result is published in [JPCL](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00323). 
-- 🍭 I’m currently learning reversible reaction process by theory and double check this result based on the stochastic simulation by c lang.
+- 🌱 I analyzed MD simulation data by [Julia language](https://julialang.org/). This result is published in [JPCL](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00323) and [JCP](https://pubs.aip.org/aip/jcp/article/164/20/205102/3392828). 
+- 🍭 I’m currently learning reversible reaction process by theory and double check this result based on the stochastic simulation by c lang and Julia.
 - 🎇 I like bike riding, bodyweight workouts (pull-up, push up), and reading books. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 I'm Ph.D student in [**CDLC**](http://cdlc.cau.ac.kr/) and [**GCSC**](https://www.gcsc.cau.ac.kr/home). 
